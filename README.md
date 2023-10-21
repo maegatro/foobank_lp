@@ -1,8 +1,9 @@
-# React + Vite
+# HooBank Landing page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern Web3 UI/UX Landing Page using React.js & Tailwind CSS
 
-Currently, two official plugins are available:
+![bank_app](https://github.com/maegatro/foobank_lp/assets/47557622/ac2c9853-a633-4781-a34f-8ce67503ea34)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+[Live Demo](https://kazebank-gpwh8bb3d-maegatro.vercel.app/)
+
